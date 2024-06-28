@@ -18,8 +18,8 @@ I'm an Electrical Engineering student ⚡️ passionate about DS 📊. Currently
 </div>
 <div align="center" style="display: flex; justify-content: center;">
     <div style="display: flex; flex-direction: row;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Std-Enigma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="120px" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Std-Enigma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="120px" style="margin-left: 10px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Std-Enigma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="140px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Std-Enigma&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="140px" style="margin-left: 10px;" />
       <img src="https://github-profile-trophy.vercel.app/?username=Std-Enigma&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
     </div>
 </div>
