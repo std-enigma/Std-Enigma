@@ -27,16 +27,14 @@ I'm an Electrical Engineering student ⚡️ passionate about DS 📊. Currently
   
 </div>
 <div align="center" style="display: flex; flex-direction: row;">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Std-Enigma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180px" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Std-Enigma&theme=tokyonight&hide_border=false" height="180px" style="margin-left: 10px;" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=Std-Enigma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="150px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Std-Enigma&theme=tokyonight&hide_border=false" height="150px" style="margin-left: 10px;" />
 </div>
 
 ---
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br>
 
 [![](https://visitcount.itsvg.in/api?id=Std-Enigma&icon=9&color=1)](https://visitcount.itsvg.in)
 
