@@ -34,13 +34,4 @@ I'm an Electrical Engineering student ⚡️ passionate about DS 📊. Currently
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Std-Enigma&theme=tokyonight&hide_border=false" height="150px" style="margin-left: 10px;" />
 </div>
 
----
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-[![](https://visitcount.itsvg.in/api?id=Std-Enigma&icon=9&color=1)](https://visitcount.itsvg.in)
-
-</div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
